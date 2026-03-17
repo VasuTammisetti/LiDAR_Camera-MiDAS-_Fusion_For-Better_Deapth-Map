@@ -19,7 +19,7 @@ Watch the fusion pipeline in action on a sequence of KITTI frames:
 Or view the animated GIF:
 
 ![Fusion Demo GIF]([assets/fusion_demo.gif](https://github.com/VasuTammisetti/KITTI_LiDAR_Camera_Fusion_For-Better_Deapth-map/blob/main/fusion_demo%20(1).gif))  
-*GIF version of the same sequence. (Place your GIF in `assets/`)*
+*GIF version of the same sequence. (Place your GIF in `asseassets/fusion_demo.gif](https://github.com/VasuTammisetti/KITTI_LiDAR_Camera_Fusion_For-Better_Deapth-map/blob/main/fusion_demo%20(1).gifts/`)*
 
 ---
 
